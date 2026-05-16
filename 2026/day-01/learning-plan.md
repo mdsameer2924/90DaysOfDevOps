@@ -20,3 +20,9 @@ I am passionate about learning new technology, especially Linux and Cloud. I wan
 
 ## Plan: Time I Will Spend
 2–3 hours per day on weekdays , 4–6 hours on weekends
+-----
+
+###  Resources
+- TrainWithShubham [course curriculum](https://english.trainwithshubham.com/JOSH_BATCH_10_Syllabus_v1.pdf)
+- TrainWithShubham DevOps [roadmap](https://docs.google.com/spreadsheets/d/1eE-NhZQFr545LkP4QNhTgXcZTtkMFeEPNyVXAflXia0/edit?gid=2073716385#gid=2073716385)
+
